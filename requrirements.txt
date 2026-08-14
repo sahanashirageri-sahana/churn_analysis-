@@ -2,9 +2,7 @@ tensorflow
 pandas
 numpy
 scikit-learn
-tensorboard
 matplotlib
 streamlit
 scikeras
 seaborn
-ipykernel
